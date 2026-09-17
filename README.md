@@ -35,7 +35,7 @@ Lovable to GitHub for deployment. Resolved this through troubleshooting
 and persistence, successfully linking the two platforms.
 
 ## Live Demo
-[Add your deployed Lovable link here]
+https://lulama-ai-assisant.lovable.app
 
 ## Ethical AI Use
 AI tools were used to accelerate development and idea generation; 
